@@ -27,5 +27,6 @@ function mkbatfile($source, $targetname) {
 mkbatfile "c:\program files\sublime text 3\subl.exe" "subl"
 mkbatfile "c:\program files\git\bin\git.exe" "git"
 mkbatfile "c:\program files\git\bin\ssh.exe" "ssh"
+mkbatfile "c:\program files\git\bin\bash.exe" "bash"
 mkbatfile "c:\mingw\msys\1.0\bin\rsync.exe" "rsync"
 pause

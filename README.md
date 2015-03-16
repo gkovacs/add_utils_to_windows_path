@@ -6,10 +6,20 @@ Currently adds:
 
 subl (if you have Sublime Text 3 installed)
 
-git, ssh (if you have git installed)
+git, ssh, bash (if you have git installed)
 
 rsync (if you installed rsync via msys)
+
+You should also check out [sudowin](https://github.com/gkovacs/sudowin)
 
 ## Installation
 
 Download the two files, put them in the same directory, and run setup.bat
+
+## Author
+
+[Geza Kovacs](https://github.com/gkovacs)
+
+## License
+
+MIT
